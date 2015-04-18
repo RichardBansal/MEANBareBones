@@ -7,5 +7,5 @@ Please note the .gitignore contains the following folders, which you should manu
 
 - node_modules (npm install will load this)
 - bower_components  (npm install will load this)
-- **config (manually add to store api and protection information, not to share or git commit)**
+- **config (manually add to store api keys and protected information, not to share or git commit)**
 - npm-debug.log (ignore - logging file created by npm)
